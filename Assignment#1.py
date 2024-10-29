@@ -12,7 +12,7 @@ print("Average of three numbers=",sum/3) #Average of three numbers=30.0
 
 #Question no 2
 # Write python code to calculate the area of the following shapes?
-# area=21*base*height , area=side2 , Area=π×radius2 , Area=length×width
+# area=0.5*base*height , area=side2 , Area=π×radius2 , Area=length×width
 
 #Area=0.5×base×height
 base=8
