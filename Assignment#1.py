@@ -5,7 +5,7 @@ num3=30
 num2=20
 num3=40
 print("Sum of Three numbers=",num1+num2+num3) #Sum of Three numbers=90
-print("Difference of Three numbers=",num1-num2-num3)#Difference of Three numbers= -40
+print("Difference of Three numbers=",num1-num2-num3)#Difference of Three numbers= -30
 print("Product of Three numbers=",num1*num2*num3) #Product of Three numbers= 24000
 sum=num1+num2+num3
 print("Average of three numbers=",sum/3) #Average of three numbers=30.0
