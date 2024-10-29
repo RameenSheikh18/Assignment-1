@@ -4,7 +4,7 @@
 num3=30
 num2=20
 num3=40
-print("Sum of Three numbers=",num1+num2+num3) #Average of Three numbers=90
+print("Sum of Three numbers=",num1+num2+num3) #Sum of Three numbers=90
 print("Difference of Three numbers=",num1-num2-num3)#Difference of Three numbers= -40
 print("Product of Three numbers=",num1*num2*num3) #Product of Three numbers= 24000
 sum=num1+num2+num3
