@@ -1,7 +1,7 @@
 #variables 
 # Question no 1
 # write a program that calculate the sum,difference,product and average of three numbers?
-num3=30
+num1=30
 num2=20
 num3=40
 print("Sum of Three numbers=",num1+num2+num3) #Sum of Three numbers=90
